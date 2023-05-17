@@ -19,8 +19,18 @@ A new Flutter project.
 <img src="https://github.com/KhushiMangukiya8122/ramayan_app/assets/131368294/a8093335-b4f0-4dc4-982f-f3b60fc51961" width="220px">
 
 <img align="left" src="https://github.com/KhushiMangukiya8122/ramayan_app/assets/131368294/0a06d4f7-2a07-4682-b17a-50e531e6b030" width="220px">
+<img align="left" src="https://github.com/KhushiMangukiya8122/ramayan_app/assets/131368294/5a6a9ba3-90c5-4df9-8555-807b81482e3a" width="220px">
+<img src="https://github.com/KhushiMangukiya8122/ramayan_app/assets/131368294/231fa52f-7a41-44f9-b0e8-c6be5cf15a27" width="220px">
+
+<img align="left" src="https://github.com/KhushiMangukiya8122/ramayan_app/assets/131368294/676f2837-7a35-4e7e-9b54-36db1fc3d4b3" width="220px">
+<img align="left" src="https://github.com/KhushiMangukiya8122/ramayan_app/assets/131368294/bf556baa-6c06-47bc-8da5-8ed307254b01" width="220px">
+<img src="https://github.com/KhushiMangukiya8122/ramayan_app/assets/131368294/20691b91-3f11-48ae-a707-10325202159b" width="220px">
+
+<img align="left" src="https://github.com/KhushiMangukiya8122/ramayan_app/assets/131368294/8fc3448d-8292-49a4-bdc8-d225dd7b809e" width="220px">
+<img align="left" src="https://github.com/KhushiMangukiya8122/ramayan_app/assets/131368294/da42bc58-8f01-40fe-ab16-cb12fbdc934f" width="220px">
+<img src="https://github.com/KhushiMangukiya8122/ramayan_app/assets/131368294/26cc5c5a-35b0-4319-9eae-538eb453bdbf" width="220px">
+
 <img align="left" src="" width="220px">
-<img src="" width="220px">
 
 ## Getting Started
 
