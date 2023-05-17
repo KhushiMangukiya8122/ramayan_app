@@ -30,8 +30,6 @@ A new Flutter project.
 <img align="left" src="https://github.com/KhushiMangukiya8122/ramayan_app/assets/131368294/da42bc58-8f01-40fe-ab16-cb12fbdc934f" width="220px">
 <img src="https://github.com/KhushiMangukiya8122/ramayan_app/assets/131368294/26cc5c5a-35b0-4319-9eae-538eb453bdbf" width="220px">
 
-<img align="left" src="" width="220px">
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
